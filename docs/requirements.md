@@ -14,3 +14,14 @@
 | RF10 | Salvar dados em arquivo   | Alta       |
 | RF11 | Carregar dados ao iniciar | Alta       |
 
+## Enteidades ##
+
+### Livro: ###
+
+ID
+Título
+Autor
+Editora
+Ano
+Quantidade
+Quantidade disponível
