@@ -1,5 +1,7 @@
 # 📚 Digital Library System
 
+> 🚧 **Status:** In development
+
 A Digital Library Management System developed in **C** as part of my Software Engineering and Embedded Systems learning journey.
 
 This project is being built following software engineering best practices, focusing not only on programming in C but also on software architecture, documentation, version control, and project organization.
@@ -101,6 +103,19 @@ digital-library-system/
 - [ ] Code refactoring
 - [ ] Testing
 - [ ] Release v1.0
+
+---
+
+## 📅 Current Sprint
+
+**Sprint 0 — Project Planning**
+
+Current tasks:
+
+- [ ] Define requirements
+- [ ] Define project architecture
+- [ ] Create backlog
+- [ ] Create Book module
 
 ---
 
