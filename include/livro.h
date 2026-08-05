@@ -1,4 +1,4 @@
-#ifndef LIVRO_H //inclui a struct livro apenas uma vez no codigo
+#ifndef LIVRO_H // Evita que este arquivo seja incluído mais de uma vez durante a compilação.
 #define LIVRO_H
 
 #define MAX_TITULO 100 //define o tamanho maximo do titulo do livro
@@ -11,7 +11,7 @@ typedef struct{ //usando o typedef para criar um apelido para a struct
     char autor[MAX_AUTOR];
     char editora[MAX_EDITORA];
     int anoPublicacao;
-    int quntidadeTotal;
+    int quantidadeTotal;
     int quantidadeDisponivel;
 } Livro;
 
