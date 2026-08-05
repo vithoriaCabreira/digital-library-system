@@ -13,6 +13,7 @@
 | RF09 | Registrar devolução       | Alta       |
 | RF10 | Salvar dados em arquivo   | Alta       |
 | RF11 | Carregar dados ao iniciar | Alta       |
+| RF12 | O sistema deverá gerar automaticamente um identificador único para cada livro cadastrado | Alta       |
 
 ## Enteidades ##
 
