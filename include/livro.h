@@ -15,4 +15,6 @@ typedef struct{ //usando o typedef para criar um apelido para a struct
     int quantidadeDisponivel;
 } Livro;
 
+void cadastrarLivro(void); //declaração da função cadastrarLivro
+
 #endif
